@@ -6,7 +6,3 @@ class Post
 
 
 end
-
-
-p.author.name
-p.author = "Avi"

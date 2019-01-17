@@ -17,7 +17,7 @@ song.artist.name
   # => "Beyonce"
 ```
 
-* Posts should have a title and belong to an author. A post should be able to tell you the name of its author:
+* Posts should have a title and belong to an author. A post should be able to tell you the name of itsadsfadadasdas author:
 
 ```ruby
 post.author.name

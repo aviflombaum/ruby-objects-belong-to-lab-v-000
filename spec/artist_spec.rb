@@ -1,4 +1,4 @@
-lerequire "spec_helper"
+require "spec_helper"
 
 describe "Artist" do 
   it "has a name" do
